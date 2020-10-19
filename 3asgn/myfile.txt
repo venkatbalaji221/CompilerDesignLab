@@ -1,0 +1,3 @@
+if ifas=5 then 5>=45.3E-32
+if else2=45 else else3=24
+if abc= 23.35E3 then de<>fc
